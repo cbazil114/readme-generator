@@ -57,13 +57,13 @@ ${renderLicenseBadge(data.license)}
 
   ${renderLicenseSection(data.license)}
 
-  ## Tests
-
-  ${data.tests}
-
   ## Contributing
 
   ${data.contributing}
+
+  ## Tests
+
+  ${data.tests}
 
   ## Questions
   If you would like to see other projects, visit my Github page at: GitHub: https://github.com/${data.github} 

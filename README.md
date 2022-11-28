@@ -7,9 +7,9 @@
 
   ## Table of Contents
   * [Description](#description)
-  
   * [Installation](#installation)
   * [Usage](#usage)
+  
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -18,18 +18,18 @@
   ## Installation
   Clone from the repository
 
-  
-
   ## Usage
   Once you have a copy of the repo, you can use node to answer a series of questions which will then fill in the readme file (and create one if necessary)
 
-  ## Tests
-
-  Once you have the readme-generator folder, you can open the command line and enter "node index.js"
+  
 
   ## Contributing
 
-  Visit the repository page on Github. It is public.
+  Visit the public repository on Github
+
+  ## Tests
+
+  Once you have a clone of the folder on your computer, you can use node by opening the command line and typing "node index.js" to execute the readme generator
 
   ## Questions
   If you would like to see other projects, visit my Github page at: GitHub: https://github.com/cbazil114 
